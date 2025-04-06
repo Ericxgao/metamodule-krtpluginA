@@ -69,7 +69,7 @@ target_include_directories(KRTPluginA PRIVATE
 # Create the plugin
 create_plugin(
     SOURCE_LIB      KRTPluginA
-    PLUGIN_NAME     KRT
+    PLUGIN_NAME     KRTPluginA
     PLUGIN_JSON     ${SOURCE_DIR}/plugin.json
     SOURCE_ASSETS   ${CMAKE_CURRENT_LIST_DIR}/assets
     DESTINATION     ${CMAKE_CURRENT_LIST_DIR}/metamodule-plugins
