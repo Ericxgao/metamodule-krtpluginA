@@ -1,0 +1,112 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-krtplugin",
+    "MetaModuleDescription": "KRTPluginA for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "A",
+            "name": "A"
+        },
+        {
+            "slug": "Mu",
+            "name": "μ"
+        },
+        {
+            "slug": "T",
+            "name": "T"
+        },
+        {
+            "slug": "L",
+            "name": "L"
+        },
+        {
+            "slug": "D",
+            "name": ";D"
+        },
+        {
+            "slug": "R",
+            "name": "R"
+        },
+        {
+            "slug": "Om",
+            "name": "Ω"
+        },
+        {
+            "slug": "V",
+            "name": "V"
+        },
+        {
+            "slug": "F",
+            "name": "F"
+        },
+        {
+            "slug": "W",
+            "name": "W"
+        },
+        {
+            "slug": "Y",
+            "name": "Y"
+        },
+        {
+            "slug": "O",
+            "name": "O"
+        },
+        {
+            "slug": "S",
+            "name": "S"
+        },
+        {
+            "slug": "E",
+            "name": "E"
+        },
+        {
+            "slug": "X",
+            "name": "X"
+        },
+        {
+            "slug": "M",
+            "name": "M"
+        },
+        {
+            "slug": "Q",
+            "name": "Q"
+        },
+        {
+            "slug": "C",
+            "name": "C"
+        },
+        {
+            "slug": "U",
+            "name": "U"
+        },
+        {
+            "slug": "B",
+            "name": "B"
+        },
+        {
+            "slug": "J",
+            "name": "J"
+        },
+        {
+            "slug": "K",
+            "name": "K"
+        },
+        {
+            "slug": "H",
+            "name": "H"
+        },
+        {
+            "slug": "I",
+            "name": "I"
+        },
+        {
+            "slug": "G",
+            "name": "G"
+        },
+        {
+            "slug": "Z",
+            "name": "Z"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+[submodule "KRTPluginA"]
+	path = KRTPluginA
+	url = https://github.com/Ericxgao/KRTPluginA
