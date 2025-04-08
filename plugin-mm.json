@@ -6,107 +6,133 @@
     "MetaModuleIncludedModules": [
         {
             "slug": "A",
-            "name": "A"
+            "name": "A",
+            "displayName": "A - Filter/Ring Mod"
         },
         {
             "slug": "Mu",
-            "name": "μ"
+            "name": "μ",
+            "displayName": "μ - Waveshaper"
         },
         {
             "slug": "T",
-            "name": "T"
+            "name": "T",
+            "displayName": "T - Time Stretch"
         },
         {
             "slug": "L",
-            "name": "L"
+            "name": "L",
+            "displayName": "L - Sync Delay"
         },
         {
             "slug": "D",
-            "name": ";D"
+            "name": ";D",
+            "displayName": ";D - VCA"
         },
         {
             "slug": "R",
-            "name": "R"
+            "name": "R",
+            "displayName": "R - Mixer Split"
         },
         {
             "slug": "Om",
-            "name": "Ω"
+            "name": "Ω",
+            "displayName": "Ω - Clock Random"
         },
         {
             "slug": "V",
-            "name": "V"
+            "name": "V",
+            "displayName": "V - VCA"
         },
         {
             "slug": "F",
-            "name": "F"
+            "name": "F",
+            "displayName": "F - Morph Filter"
         },
         {
             "slug": "W",
-            "name": "W"
+            "name": "W",
+            "displayName": "W - Gate Transpose"
         },
         {
             "slug": "Y",
-            "name": "Y"
+            "name": "Y",
+            "displayName": "Y - Sequencer"
         },
         {
             "slug": "O",
-            "name": "O"
+            "name": "O",
+            "displayName": "O - Oscillator"
         },
         {
             "slug": "S",
-            "name": "S"
+            "name": "S",
+            "displayName": "S - Clock to CV"
         },
         {
             "slug": "E",
-            "name": "E"
+            "name": "E",
+            "displayName": "E - AR Envelope"
         },
         {
             "slug": "X",
-            "name": "X"
+            "name": "X",
+            "displayName": "X - Wavefolder"
         },
         {
             "slug": "M",
-            "name": "M"
+            "name": "M",
+            "displayName": "M - RIAA Filter"
         },
         {
             "slug": "Q",
-            "name": "Q"
+            "name": "Q",
+            "displayName": "Q - Quantum Oscillator"
         },
         {
             "slug": "C",
-            "name": "C"
+            "name": "C",
+            "displayName": "C - Attenuverter"
         },
         {
             "slug": "U",
-            "name": "U"
+            "name": "U",
+            "displayName": "U - S&H Quantizer"
         },
         {
             "slug": "B",
-            "name": "B"
+            "name": "B",
+            "displayName": "B - Switch"
         },
         {
             "slug": "J",
-            "name": "J"
+            "name": "J",
+            "displayName": "J - Phaser"
         },
         {
             "slug": "K",
-            "name": "K"
+            "name": "K",
+            "displayName": "K - PM Oscillator"
         },
         {
             "slug": "H",
-            "name": "H"
+            "name": "H",
+            "displayName": "H - Organ"
         },
         {
             "slug": "I",
-            "name": "I"
+            "name": "I",
+            "displayName": "I - Clock Divider"
         },
         {
             "slug": "G",
-            "name": "G"
+            "name": "G",
+            "displayName": "G - Compressor"
         },
         {
             "slug": "Z",
-            "name": "Z"
+            "name": "Z",
+            "displayName": "Z - Filter/Waveshaper"
         }
     ]
 }
